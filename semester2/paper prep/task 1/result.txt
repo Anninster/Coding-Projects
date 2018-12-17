@@ -1,0 +1,7 @@
+row1 devided by 2
+row2 - row1 x 11
+row3 - row1 x 21
+row2 devided by -135.5
+row3 - row2 x -302.5
+row3 devided by 307.491
+row1 - row3 x 27row2 - row3 x 1.79336row1 - row2 x 15.5

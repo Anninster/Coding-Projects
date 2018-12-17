@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1471513713 source:c:\users\anninster\desktop\projects\paper prep\zczxc\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
