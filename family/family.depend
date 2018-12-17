@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1487167793 source:c:\users\anninster\desktop\projects\ha\family\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1492408261 source:c:\users\anninster\desktop\university\projects\ha\family\main.cpp
+	<iostream>
+	<stdlib.h>
+
