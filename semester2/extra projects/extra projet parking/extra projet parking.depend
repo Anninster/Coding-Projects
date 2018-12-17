@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1460453010 source:c:\users\anninster\desktop\projects\cp labexam\extra projet parking\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<dos.h>
+

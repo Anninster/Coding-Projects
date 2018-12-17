@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462264550 source:c:\users\anninster\desktop\projects\extra projects\plane reservation\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string.h>
+

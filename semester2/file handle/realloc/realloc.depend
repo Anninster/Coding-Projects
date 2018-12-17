@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464245075 source:c:\users\anninster\desktop\projects\file handle\realloc\main.cpp
+	<iostream>
+	<stdlib.h>
+
