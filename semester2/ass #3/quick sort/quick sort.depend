@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464238620 source:c:\users\anninster\desktop\projects\ass #3\quick sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
